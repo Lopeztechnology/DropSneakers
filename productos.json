@@ -1,0 +1,171 @@
+[
+    {
+        "id": 1,
+        "nombre": "NIKE COURT VISION LO BE ",
+        "precio": 650000,
+        "descripcion": "Descripcin del producto 1...",
+        "categoria": "calzado-deportivo",
+        "imagenes": [
+            "COURT-VISION\/1.JPEG",
+            "COURT-VISION\/2.JPEG",
+            "COURT-VISION\/3.JPEG",
+            "COURT-VISION\/4.JPEG",
+            "COURT-VISION\/5.JPEG"
+        ],
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre": "NIKE COURT VISION LO BE ",
+        "precio": 600000,
+        "descripcion": "Descripcin del producto 1...",
+        "categoria": "calzado-deportivo",
+        "imagenes": [
+            "COURT-VISION\/11.JPEG",
+            "COURT-VISION\/12.JPEG",
+            "COURT-VISION\/13.JPEG",
+            "COURT-VISION\/14.JPEG"
+        ],
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "NIKE COURT VISION LO BE ",
+        "precio": 600000,
+        "descripcion": "Descripcin del producto 1...",
+        "categoria": "calzado-deportivo",
+        "imagenes": [
+            "COURT-VISION\/21.JPEG",
+            "COURT-VISION\/22.JPEG",
+            "COURT-VISION\/23.JPEG",
+            "COURT-VISION\/24.JPEG"
+        ],
+        "cantidad": 1
+    },
+    {
+        "id": 4,
+        "nombre": "NIKE COURT VISION LO BE",
+        "precio": 600000,
+        "descripcion": "Descripcin del producto 1...",
+        "categoria": "calzado-deportivo",
+        "imagenes": [
+            "COURT-VISION\/31.JPEG",
+            "COURT-VISION\/32.JPEG",
+            "COURT-VISION\/33.JPEG",
+            "COURT-VISION\/34.JPEG"
+        ],
+        "cantidad": 1
+    },
+    {
+        "id": 5,
+        "nombre": "Vans Era",
+        "precio": 450000,
+        "descripcion": "Descripcin del producto 1...",
+        "categoria": "calzado-vestir",
+        "imagenes": [
+            "era1.webp",
+            "era2.webp",
+            "era3.webp"
+        ],
+        "cantidad": 1
+    },
+    {
+        "id": 6,
+        "nombre": "Vans Era",
+        "precio": 450000,
+        "descripcion": "Descripcin del producto 1...",
+        "categoria": "calzado-vestir",
+        "imagenes": [
+            "era1.webp",
+            "era2.webp",
+            "era3.webp"
+        ],
+        "cantidad": 1
+    },
+    {
+        "id": 7,
+        "nombre": "Vans Era",
+        "precio": 450000,
+        "descripcion": "Descripcin del producto 1...",
+        "categoria": "calzado-vestir",
+        "imagenes": [
+            "era1.webp",
+            "era2.webp",
+            "era3.webp"
+        ],
+        "cantidad": 1
+    },
+    {
+        "id": 8,
+        "nombre": "Vans Era",
+        "precio": 450000,
+        "descripcion": "Descripcin del producto 1...",
+        "categoria": "calzado-vestir",
+        "imagenes": [
+            "era1.webp",
+            "era2.webp",
+            "era3.webp"
+        ],
+        "cantidad": 1
+    },
+    {
+        "id": 9,
+        "nombre": "NIKE COURT VISION LO BE ",
+        "precio": 650000,
+        "descripcion": "Descripcin del producto 1...",
+        "categoria": "productos-destacados",
+        "imagenes": [
+            "img\/1.webp",
+            "img\/2.webp",
+            "img\/3.webp",
+            "img\/4.webp",
+            "img\/5.webp"
+        ],
+        "cantidad": 1
+    },
+    {
+        "id": 10,
+        "nombre": "NIKE COURT VISION LO BE ",
+        "precio": 650000,
+        "descripcion": "Descripcin del producto 1...",
+        "categoria": "productos-destacados",
+        "imagenes": [
+            "img\/11.jpeg",
+            "img\/12.jpeg",
+            "img\/13.jpeg",
+            "img\/14.jpeg",
+            "img\/15.jpeg"
+        ],
+        "cantidad": 1
+    },
+    {
+        "id": 11,
+        "nombre": "NIKE COURT VISION LO BE ",
+        "precio": 650000,
+        "descripcion": "Descripcin del producto 1...",
+        "categoria": "productos-destacados",
+        "imagenes": [
+            "img\/1.jpeg",
+            "img\/2.jpeg",
+            "img\/3.jpeg",
+            "img\/4.jpeg",
+            "img\/5.jpeg"
+        ],
+        "cantidad": 1
+    },
+    {
+        "id": 12,
+        "nombre": "NIKE COURT VISION LO BE ",
+        "precio": 650000,
+        "descripcion": "Descripcin del producto 1...",
+        "categoria": "productos-destacados",
+        "imagenes": [
+            "img\/21.jpeg",
+            "img\/22.jpeg",
+            "img\/23.jpeg",
+            "img\/24.jpeg",
+            "img\/25.jpeg"
+        ],
+        "cantidad": 1
+    }
+]
